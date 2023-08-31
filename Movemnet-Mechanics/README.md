@@ -13,4 +13,6 @@ Using Solidworks 3D CAD software and a couple of minutes we have our part:
 
 As you can see the blue part of the assembly is the wheel. I decided to add a notch so that I could fill it with a type of water-absorbant material to provide as much traction as possible. 
 
-The gear is fixed to the wheel as this would be powered by a motor through another gear. The 
+The gear is fixed to the wheel as this would be powered by a motor through another gear. The gear calculations are as follows:
+
+![](IMAGES/Gear-Calculations.png)
