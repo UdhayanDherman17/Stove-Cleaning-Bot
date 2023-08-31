@@ -1,4 +1,4 @@
 First, Let's design the bot's movement functionality. So since we deal with liquids on slippery surfaces we need a method of movement that is not complicated and slip-resistant.
 Therefore, a simple 2-wheel drive (FWD) system with a loose steel ball at the back provides stability.
 
-![alt](https://github.com/UdhayanDherman17/Stove-Cleaning-Bot/blob/4f7585caf6fa412c671a018eb18b216262a466f4/IMAGES/Wheel-concept.png)
+![alt](https://raw.githubusercontent.com/UdhayanDherman17/Stove-Cleaning-Bot/main/IMAGES/Wheel-concept.png)
