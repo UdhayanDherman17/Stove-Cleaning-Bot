@@ -12,3 +12,9 @@ Therefore, I am going to design a wheel with a fixed gear attached to it. So we 
 
 Here is the part:
 ![](Images/Wheel-gear-part.png)
+
+Now that we have our part let's export to Simulink! To do this we need to convert from a (.SLDALASM) to a (.XML).
+*I will provide both files and the seperate files in the repo*:)
+
+This is what the model looks like in simulink *(in orange border)*
+![]()
