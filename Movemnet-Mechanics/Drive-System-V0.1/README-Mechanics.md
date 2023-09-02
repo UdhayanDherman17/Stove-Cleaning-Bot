@@ -26,4 +26,9 @@ If you run the model SimMechanics Explorer will have your part built.
 This is all handled by Simiulinks Library -> SimscapesMechanics and Simscapes Multibody Link. Lucky me!
 Anyways now that we have a model all set up and ready, we now need our motor.
 
+I will use a simple DC motor, an H-bridge (to control the direction of the motor rotation), a PWM module, a GearBox, and an Ideal Torqure Sensor.
+
+Here is the circuit:
+![]()
+
 
