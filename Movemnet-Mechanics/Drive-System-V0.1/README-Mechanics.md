@@ -8,13 +8,13 @@ Similar to Arcbotics Sparki:
 
 So first things first let's design and simulate this drive system. We don't want to just keep 3D printing components over and over if things go wrong. Because they will... Instead, let's simulate a DC motor in Simulink and attach it to our Solidworks Part. This way we can run many simulations over and over, faster and cheaper.
 
-Therefore, I am going to design a wheel with a fixed gear attached to it. So we can run the motor with a gear attachment and transfer power through the gear system. This way we can play around with gear ratio's in case power issues arise.
+Therefore, I am going to design a wheel with a fixed gear attached to it. So we can run the motor with a gear attachment and transfer power through the gear system. This way we can play around with gear ratios in case power issues arise.
 
 Here is the part:
 ![](Images/Wheel-gear-part.png)
 
 Now that we have our part let's export to Simulink! To do this we need to convert from a (.SLDALASM) to a (.XML).
-*I will provide both files and the seperate files in the repo*:)
+*I will provide both files and the separate files in the repo*:)
 
-This is what the model looks like in simulink *(in orange border)*
-![]()
+This is what the model looks like in Simulink *(in orange border)*
+![](Images/simulink-model.png)
