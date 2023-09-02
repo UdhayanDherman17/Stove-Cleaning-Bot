@@ -20,8 +20,10 @@ This is what the model looks like in Simulink *(in orange border)*
 ![](Images/simulink-model.png)  
 
 If you run the model SimMechanics Explorer will have your part built.
-![])()
+![](Images/SimMech-Part.png)
 
 
 This is all handled by Simiulinks Library -> SimscapesMechanics and Simscapes Multibody Link. Lucky me!
-Anyways now we
+Anyways now that we have a model all setup and ready, we now need our motor.
+
+
