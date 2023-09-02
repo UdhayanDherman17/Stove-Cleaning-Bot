@@ -8,7 +8,7 @@ Similar to Arcbotics Sparki:
 
 So first things first let's design and simulate this drive system. We don't want to just keep 3D printing components over and over if things go wrong. Because they will... Instead, let's simulate a DC motor in Simulink and attach it to our Solidworks Part. This way we can run many simulations over and over, faster and cheaper.
 
-Therefore, I am going to design a wheel with a fixed gear attached to it. So we can run the motor with a gear attachment and transfer power through the gear system. This way we can play around with gear ratio's incase power issues arise.
+Therefore, I am going to design a wheel with a fixed gear attached to it. So we can run the motor with a gear attachment and transfer power through the gear system. This way we can play around with gear ratio's in case power issues arise.
 
 Here is the part:
-![]()
+![](IMAGES/Wheel-gear-part.png)
