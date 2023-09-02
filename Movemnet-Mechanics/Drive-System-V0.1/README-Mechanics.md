@@ -17,4 +17,7 @@ Now that we have our part let's export to Simulink! To do this we need to conver
 *I will provide both files and the separate files in the repo*:)
 
 This is what the model looks like in Simulink *(in orange border)*
-![](Images/simulink-model.png)
+![](Images/simulink-model.png)  ![]()
+
+This is all handled by Simiulinks Library -> SimscapesMechanics and Simscapes Multibody Link. Lucky me!
+Anyways now we
