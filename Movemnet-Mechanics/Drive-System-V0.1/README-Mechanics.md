@@ -35,7 +35,7 @@ Here is the circuit:
 - **Voltage Source : 5V**
 - **Controlled PWM Voltage Block**: This is where we have to do some math! So to figure out the max frequency we can run our motor we need to find the max RPM our motor can handle. I have provided the datasheet of this motor.
 I found that this motor can handle 8804(+-)10%. For safety reasons, I will use 7923 RPM. To find its max frequency(Hz) we can use this formula:***f = (RPM * #Communication Cycles)/60***. *Commutations are the number of pole switches in a motor*. Since we using a brushed motor, there is one switch occurring in the mechanical rotations. Anyways, let's plug in our values and we see that our motor can operate at a frequency of 132Hz. Let's do that for the simulation's sake, and because we can.
--**H-Bridge** : Simulation mode = PWM everthing else default.
+- **H-Bridge** : Simulation mode = PWM everthing else default.
 
 
 
